@@ -66,6 +66,12 @@
     <Reference Include="PlusLevelStudio">
       <HintPath>..\..\..\BepInEx\plugins\PlusLevelStudio.dll</HintPath>
     </Reference>
+    <Reference Include="PlusStudioLevelFormat">
+      <HintPath>..\..\..\BepInEx\plugins\PlusStudioLevelFormat.dll</HintPath>
+    </Reference>
+    <Reference Include="PlusStudioLevelLoader">
+      <HintPath>..\..\..\BepInEx\plugins\PlusStudioLevelLoader.dll</HintPath>
+    </Reference>
     <Reference Include="Rewired_Core">
       <HintPath>..\..\Managed\Rewired_Core.dll</HintPath>
     </Reference>
